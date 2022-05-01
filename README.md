@@ -1,10 +1,12 @@
 # Kaggle_JPX
 
+Peek Kaggle competition...
+
 ## Preliminaries
 
 Get JPX data from https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
 
-```
+```bash
 kaggle competitions download -c jpx-tokyo-stock-exchange-prediction
 mkdir jpx-tokyo-stock-exchange-prediction
 unzip jpx-tokyo-stock-exchange-prediction.zip -d jpx-tokyo-stock-exchange-prediction
